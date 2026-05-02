@@ -1,0 +1,10 @@
+.vscode/settings.json
+
+{
+  "python.defaultInterpreterPath": "./venv/Scripts/python.exe",
+  "editor.fontSize": 14,
+  "editor.tabSize": 4,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000
+}
