@@ -1,2 +1,1 @@
-# Med-scan India
-
+# Med-scan-India
